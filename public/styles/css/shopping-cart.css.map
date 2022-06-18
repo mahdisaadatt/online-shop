@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../scss/shopping-cart.scss",
+        "../scss/partials/components/_nav.scss",
+        "../scss/partials/pages/_shopping-cart.scss",
+        "../scss/partials/components/_footer.scss"
+    ],
+    "names": [],
+    "file": "shopping-cart.css"
+}

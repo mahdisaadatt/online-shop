@@ -6,12 +6,7 @@
         "../scss/variables/_colors.scss",
         "../scss/variables/_fonts.scss",
         "../scss/variables/_screenSize.scss",
-        "../scss/partials/_util.scss",
-        "../scss/partials/components/_nav.scss",
-        "../scss/partials/components/_footer.scss",
-        "../scss/partials/pages/_home.scss",
-        "../scss/partials/pages/_product-detail.scss",
-        "../scss/partials/pages/_shopping-cart.scss"
+        "../scss/partials/_util.scss"
     ],
     "names": [],
     "file": "main.css"

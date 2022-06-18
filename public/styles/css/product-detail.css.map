@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../scss/product-detail.scss",
+        "../scss/partials/components/_nav.scss",
+        "../scss/partials/pages/_product-detail.scss",
+        "../scss/partials/components/_footer.scss"
+    ],
+    "names": [],
+    "file": "product-detail.css"
+}

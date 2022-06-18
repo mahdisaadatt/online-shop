@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../scss/home.scss",
+        "../scss/partials/components/_nav.scss",
+        "../scss/partials/pages/_home.scss",
+        "../scss/partials/components/_footer.scss"
+    ],
+    "names": [],
+    "file": "home.css"
+}
