@@ -1,0 +1,16 @@
+// importing variables
+@import './variables/colors';
+@import './variables/fonts';
+@import './variables/screenSize';
+
+// importing prerequisites
+@import './partials/util';
+
+// importing components
+@import './partials/components/nav';
+@import './partials/components/footer';
+
+// importing pages
+@import './partials/pages/home';
+@import './partials/pages/product-detail';
+@import './partials/pages/shopping-cart';
